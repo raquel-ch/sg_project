@@ -14,5 +14,3 @@ Feedback video class Project Part A:
     - genre
     - album
     - spotify streams
-    - in degree
-    - out degree
