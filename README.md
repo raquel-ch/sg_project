@@ -13,4 +13,6 @@ Feedback video class Project Part A:
     - release date
     - genre
     - album
-    - streams
+    - spotify streams
+    - in degree
+    - out degree
