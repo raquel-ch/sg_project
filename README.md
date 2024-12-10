@@ -16,9 +16,9 @@ This project involves building and analyzing a Taylor Swift song network, focusi
 ## Project Structure
 The project is divided into the following sections:
 
-**1. Data Collection and Analysis**
-    - Taylor Swift Dataset Analysis: Exploration of Taylor Swift's discography, including songs, albums, Spotify streams, and genres.
-    - Metacritic Web Scraping: Collecting album reviews and scores from Metacritic for sentiment and popularity correlation.
+    1. **Data Collection and Analysis**
+        - Taylor Swift Dataset Analysis: Exploration of Taylor Swift's discography, including songs, albums, Spotify streams, and genres.
+        - Metacritic Web Scraping: Collecting album reviews and scores from Metacritic for sentiment and popularity correlation.
 **2. Network Construction**
     - Song Similarity with TF-IDF: Computing lyrical similarity between songs using TF-IDF and cosine similarity.
     - Network Creation: Constructing a directed graph where songs are nodes and edges represent chronological influence based on shared words.
