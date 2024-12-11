@@ -26,12 +26,14 @@ This project involves building and analyzing a Taylor Swift song network, focusi
 3. **Network Analysis**
    - **Degree, In-Degree, and Out-Degree Distributions:** Analysis to identify influential songs.
    - **Community Detection:** Comparison between Louvain-based communities and album-based groupings.
+   - **Centrality Analysis:** Evaluating node centrality measures to identify key songs within the network.
 
 4. **Sentiment Analysis**
    - **LabMT Wordlist Sentiment Evaluation:** Sentiment analysis of each song.
    - **Sentiment Distribution Visualization:** Happy, neutral, and sad word distributions across popular songs were visualized to uncover emotional patterns.
 
 5. **Popularity and Critical Reception**
+   - **Spotify Streams vs. Sentiment Scores:** Examining the relationship between song sentiment and popularity as indicated by Spotify streams.
    - **Spotify Streams vs. Metacritic Scores:** Analyzing the correlation between critical acclaim and popularity.
    - **Original vs. "Taylor’s Version" Albums:** Comparison for critical reception and streaming performance.
 
