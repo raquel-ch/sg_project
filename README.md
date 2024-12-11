@@ -1,8 +1,6 @@
 
-
-
-
-# Social Graphs Project: Taylor Swift Network and Analysis
+# Understanding Taylor Swift's Popularity: A Data-Driven Approach to Music Analysis
+**Social Graphs and Interactions - 02805 Fall 2024**
 ## Project Overview
 This project involves building and analyzing a Taylor Swift song network, focusing on the lyrical and thematic relationships between her songs. The network analysis allows us to explore Taylor Swift's songwriting patterns, thematic communities, and song popularity through advanced techniques in natural language processing, network analysis, and sentiment evaluation.
 
